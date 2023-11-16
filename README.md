@@ -30,7 +30,7 @@ Google Colab allows you to run the notebooks online. Just open a notbook in the 
 
 For example, for lab4:
  - normal url with github, will open the notebook:
-https://github.com/waltergallegog/cs-polito-lab-tips/blob/main/lab4.ipynb
+https://github.com/waltergallegog/cs-polito-lab-tips/blob/main/1-basics.ipynb
 
  - modified url, will take you to colab where you can run it:
-https://githubtocolab.com/waltergallegog/cs-polito-lab-tips/blob/main/lab4.ipynb
+https://githubtocolab.com/waltergallegog/cs-polito-lab-tips/blob/main/1-basics.ipynb
